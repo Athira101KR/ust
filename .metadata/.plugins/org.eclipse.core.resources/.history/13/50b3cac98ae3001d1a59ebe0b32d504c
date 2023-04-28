@@ -1,0 +1,17 @@
+package geeksforgeeks;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int k=2;
+		int n=10;
+		int div=n/k;
+System.out.println(div+1);
+        
+	
+
+
+}}
+

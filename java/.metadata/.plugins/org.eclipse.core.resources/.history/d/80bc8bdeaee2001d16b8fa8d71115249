@@ -1,0 +1,5 @@
+package com.ust.annotations;
+
+public class Employee {
+
+}

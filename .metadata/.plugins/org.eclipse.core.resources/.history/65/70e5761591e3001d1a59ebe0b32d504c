@@ -1,0 +1,19 @@
+package geeksforgeeks;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int k=13;
+		int n=33;
+		double div=(double)n/k;
+		div=Math.ceil(div);
+		
+System.out.println(div);
+        
+	
+
+
+}}
+
